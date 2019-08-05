@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "sys.h": "c",
+        "stc15wfxx.h": "c",
+        "I2C.C": "cpp",
+        "oled.h": "c",
+        "i2c.h": "c",
+        "en_font.h": "c",
+        "UART.C": "cpp"
+    },
+    "files.encoding": "gb2312"
+}

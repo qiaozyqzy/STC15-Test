@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/单片机编程/C51/INC"
+            ],
+            "defines": [
+                "IDE_VSCODE",
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+                "sbit=char",
+                "sfr=char"
+            ],
+            "windowsSdkVersion": "8.1",
+            "compilerPath": "D:/VS/VC/bin/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,2705 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+D:\科技\电子科技\电子制作\测试\000\STC15-Develop-template for nrf24l01\Develop\Develop.uvproj
+Project File Date:  07/19/2019
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling MAIN.c...
+.\HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling I2C.C...
+.\HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling OLED.c...
+.\HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+USER\OLED.H(5): warning C322: unknown identifier
+USER\OLED.H(5): warning C322: unknown identifier
+USER\OLED.H(112): error C132: '_OLED_Show_PIC': not in formal parameter list
+USER\OLED.C(16): error C132: '_OLED_Send_cmd': not in formal parameter list
+USER\OLED.C(16): error C141: syntax error near '{'
+USER\OLED.C(17): error C132: 'Start_I2C': not in formal parameter list
+USER\OLED.C(18): error C141: syntax error near '0'
+USER\OLED.C(18): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(19): error C141: syntax error near '0'
+USER\OLED.C(19): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(20): error C141: syntax error near '0'
+USER\OLED.C(20): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(21): error C141: syntax error near '0'
+USER\OLED.C(21): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(22): error C141: syntax error near '0'
+USER\OLED.C(22): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(23): error C141: syntax error near '0'
+USER\OLED.C(23): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(24): error C141: syntax error near '0'
+USER\OLED.C(24): error C132: 'Stop_I2C': not in formal parameter list
+USER\OLED.C(25): error C141: syntax error near '}'
+assembling STARTUP.A51...
+compiling DELAY.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling EXINT.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling GPIO.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling MY_STUDIO.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling SYS.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling UART.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling DEBUG.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling nRF24L01.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling nRF24L01_UI.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling STC15_SPI.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\STC15_SPI.C(105): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(107): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(110): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(112): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(115): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(117): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(120): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(122): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(125): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(127): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(130): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(132): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(135): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(137): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(140): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(142): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(160): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(162): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(165): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(167): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(170): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(172): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(175): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(177): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(180): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(182): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(185): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(187): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(190): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(192): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(195): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(197): error C202: 'DATA_BIT_0': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+.\HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling I2C.C...
+.\HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling OLED.c...
+.\HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+.\HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+USER\OLED.H(5): warning C322: unknown identifier
+USER\OLED.H(5): warning C322: unknown identifier
+USER\OLED.H(112): error C132: '_OLED_Show_PIC': not in formal parameter list
+USER\OLED.C(16): error C132: '_OLED_Send_cmd': not in formal parameter list
+USER\OLED.C(16): error C141: syntax error near '{'
+USER\OLED.C(17): error C132: 'Start_I2C': not in formal parameter list
+USER\OLED.C(18): error C141: syntax error near '0'
+USER\OLED.C(18): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(19): error C141: syntax error near '0'
+USER\OLED.C(19): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(20): error C141: syntax error near '0'
+USER\OLED.C(20): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(21): error C141: syntax error near '0'
+USER\OLED.C(21): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(22): error C141: syntax error near '0'
+USER\OLED.C(22): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(23): error C141: syntax error near '0'
+USER\OLED.C(23): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(24): error C141: syntax error near '0'
+USER\OLED.C(24): error C132: 'Stop_I2C': not in formal parameter list
+USER\OLED.C(25): error C141: syntax error near '}'
+compiling DEBUG.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling DELAY.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling EXINT.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling GPIO.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling MY_STUDIO.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling nRF24L01.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling nRF24L01_UI.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling STC15_SPI.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\STC15_SPI.C(105): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(107): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(110): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(112): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(115): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(117): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(120): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(122): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(125): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(127): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(130): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(132): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(135): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(137): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(140): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(142): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(160): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(162): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(165): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(167): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(170): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(172): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(175): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(177): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(180): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(182): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(185): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(187): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(190): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(192): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(195): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(197): error C202: 'DATA_BIT_0': undefined identifier
+compiling SYS.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+compiling UART.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(121): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(122): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(123): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(124): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(125): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(126): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+HARDWARE\SYS.H(127): error C141: syntax error near 'DATA_BIT_ALL', expected '='
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling I2C.C...
+compiling OLED.c...
+USER\OLED.H(5): warning C322: unknown identifier
+USER\OLED.H(5): warning C322: unknown identifier
+USER\OLED.H(112): error C132: '_OLED_Show_PIC': not in formal parameter list
+USER\OLED.C(16): error C132: '_OLED_Send_cmd': not in formal parameter list
+USER\OLED.C(16): error C141: syntax error near '{'
+USER\OLED.C(17): error C132: 'Start_I2C': not in formal parameter list
+USER\OLED.C(18): error C141: syntax error near '0'
+USER\OLED.C(18): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(19): error C141: syntax error near '0'
+USER\OLED.C(19): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(20): error C141: syntax error near '0'
+USER\OLED.C(20): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(21): error C141: syntax error near '0'
+USER\OLED.C(21): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(22): error C141: syntax error near '0'
+USER\OLED.C(22): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(23): error C141: syntax error near '0'
+USER\OLED.C(23): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(24): error C141: syntax error near '0'
+USER\OLED.C(24): error C132: 'Stop_I2C': not in formal parameter list
+USER\OLED.C(25): error C141: syntax error near '}'
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+HARDWARE\STC15_SPI.C(98): warning C280: 'i': unreferenced local variable
+compiling SYS.c...
+compiling UART.C...
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling I2C.C...
+compiling OLED.c...
+USER\OLED.H(112): error C132: '_OLED_Show_PIC': not in formal parameter list
+USER\OLED.C(16): error C132: '_OLED_Send_cmd': not in formal parameter list
+USER\OLED.C(16): error C141: syntax error near '{'
+USER\OLED.C(17): error C132: 'Start_I2C': not in formal parameter list
+USER\OLED.C(18): error C141: syntax error near '0'
+USER\OLED.C(18): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(19): error C141: syntax error near '0'
+USER\OLED.C(19): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(20): error C141: syntax error near '0'
+USER\OLED.C(20): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(21): error C141: syntax error near '0'
+USER\OLED.C(21): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(22): error C141: syntax error near '0'
+USER\OLED.C(22): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(23): error C141: syntax error near '0'
+USER\OLED.C(23): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(24): error C141: syntax error near '0'
+USER\OLED.C(24): error C132: 'Stop_I2C': not in formal parameter list
+USER\OLED.C(25): error C141: syntax error near '}'
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+HARDWARE\STC15_SPI.C(99): warning C280: 'i': unreferenced local variable
+compiling SYS.c...
+compiling UART.C...
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling I2C.C...
+compiling OLED.c...
+USER\OLED.H(112): error C132: '_OLED_Show_PIC': not in formal parameter list
+USER\OLED.C(16): error C132: '_OLED_Send_cmd': not in formal parameter list
+USER\OLED.C(16): error C141: syntax error near '{'
+USER\OLED.C(17): error C132: 'Start_I2C': not in formal parameter list
+USER\OLED.C(18): error C141: syntax error near '0'
+USER\OLED.C(18): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(19): error C141: syntax error near '0'
+USER\OLED.C(19): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(20): error C141: syntax error near '0'
+USER\OLED.C(20): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(21): error C141: syntax error near '0'
+USER\OLED.C(21): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(22): error C141: syntax error near '0'
+USER\OLED.C(22): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(23): error C141: syntax error near '0'
+USER\OLED.C(23): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(24): error C141: syntax error near '0'
+USER\OLED.C(24): error C132: 'Stop_I2C': not in formal parameter list
+USER\OLED.C(25): error C141: syntax error near '}'
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+HARDWARE\STC15_SPI.C(99): warning C280: 'i': unreferenced local variable
+compiling SYS.c...
+compiling UART.C...
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling I2C.C...
+compiling OLED.c...
+USER\OLED.H(112): error C132: '_OLED_Show_PIC': not in formal parameter list
+USER\OLED.C(16): error C132: '_OLED_Send_cmd': not in formal parameter list
+USER\OLED.C(16): error C141: syntax error near '{'
+USER\OLED.C(17): error C132: 'Start_I2C': not in formal parameter list
+USER\OLED.C(18): error C141: syntax error near '0'
+USER\OLED.C(18): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(19): error C141: syntax error near '0'
+USER\OLED.C(19): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(20): error C141: syntax error near '0'
+USER\OLED.C(20): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(21): error C141: syntax error near '0'
+USER\OLED.C(21): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(22): error C141: syntax error near '0'
+USER\OLED.C(22): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(23): error C141: syntax error near '0'
+USER\OLED.C(23): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(24): error C141: syntax error near '0'
+USER\OLED.C(24): error C132: 'Stop_I2C': not in formal parameter list
+USER\OLED.C(25): error C141: syntax error near '}'
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling I2C.C...
+compiling OLED.c...
+USER\OLED.H(112): error C132: '_OLED_Show_PIC': not in formal parameter list
+USER\OLED.C(18): error C132: '_OLED_Send_cmd': not in formal parameter list
+USER\OLED.C(18): error C141: syntax error near '{'
+USER\OLED.C(19): error C132: 'Start_I2C': not in formal parameter list
+USER\OLED.C(20): error C141: syntax error near '0'
+USER\OLED.C(20): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(21): error C141: syntax error near '0'
+USER\OLED.C(21): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(22): error C141: syntax error near '0'
+USER\OLED.C(22): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(23): error C141: syntax error near '0'
+USER\OLED.C(23): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(24): error C141: syntax error near '0'
+USER\OLED.C(24): error C132: 'I2C_SendByte': not in formal parameter list
+USER\OLED.C(25): error C141: syntax error near '0'
+USER\OLED.C(25): error C132: 'I2C_RecvACK': not in formal parameter list
+USER\OLED.C(26): error C141: syntax error near '0'
+USER\OLED.C(26): error C132: 'Stop_I2C': not in formal parameter list
+USER\OLED.C(27): error C141: syntax error near '}'
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+HARDWARE\OLED.H(112): error C132: '_OLED_Show_PIC': not in formal parameter list
+HARDWARE\OLED.C(18): error C132: '_OLED_Send_cmd': not in formal parameter list
+HARDWARE\OLED.C(18): error C141: syntax error near '{'
+HARDWARE\OLED.C(19): error C132: 'Start_I2C': not in formal parameter list
+HARDWARE\OLED.C(20): error C141: syntax error near '0'
+HARDWARE\OLED.C(20): error C132: 'I2C_SendByte': not in formal parameter list
+HARDWARE\OLED.C(21): error C141: syntax error near '0'
+HARDWARE\OLED.C(21): error C132: 'I2C_RecvACK': not in formal parameter list
+HARDWARE\OLED.C(22): error C141: syntax error near '0'
+HARDWARE\OLED.C(22): error C132: 'I2C_SendByte': not in formal parameter list
+HARDWARE\OLED.C(23): error C141: syntax error near '0'
+HARDWARE\OLED.C(23): error C132: 'I2C_RecvACK': not in formal parameter list
+HARDWARE\OLED.C(24): error C141: syntax error near '0'
+HARDWARE\OLED.C(24): error C132: 'I2C_SendByte': not in formal parameter list
+HARDWARE\OLED.C(25): error C141: syntax error near '0'
+HARDWARE\OLED.C(25): error C132: 'I2C_RecvACK': not in formal parameter list
+HARDWARE\OLED.C(26): error C141: syntax error near '0'
+HARDWARE\OLED.C(26): error C132: 'Stop_I2C': not in formal parameter list
+HARDWARE\OLED.C(27): error C141: syntax error near '}'
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+linking...
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  L01_TX_Addr
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  nRF24L01.obj (NRF24L01)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  L01_RX_Addr
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  nRF24L01.obj (NRF24L01)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+Program Size: data=65.5 xdata=12 const=0 code=1976
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+.\HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+.\HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+.\HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+.\HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+.\HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+.\HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+.\HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+.\HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+.\HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling DEBUG.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling DELAY.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling EXINT.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling GPIO.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling MY_STUDIO.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling nRF24L01.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling nRF24L01_UI.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling STC15_SPI.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\STC15_SPI.C(107): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(109): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(112): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(114): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(117): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(119): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(122): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(124): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(127): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(129): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(132): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(134): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(137): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(139): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(142): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(144): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(162): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(164): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(167): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(169): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(172): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(174): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(177): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(179): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(182): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(184): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(187): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(189): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(192): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(194): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(197): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(199): error C202: 'DATA_BIT_0': undefined identifier
+compiling SYS.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling UART.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling I2C.C...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling OLED.c...
+HARDWARE\SYS.H(120): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C141: syntax error near 'sbit'
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+.\HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+.\HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling DEBUG.c...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling DELAY.c...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling EXINT.C...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling GPIO.C...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling MY_STUDIO.C...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling nRF24L01.c...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling nRF24L01_UI.c...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling STC15_SPI.c...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\STC15_SPI.C(107): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(109): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(112): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(114): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(117): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(119): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(122): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(124): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(127): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(129): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(132): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(134): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(137): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(139): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(142): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(144): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(162): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(164): error C202: 'DATA_BIT_7': undefined identifier
+HARDWARE\STC15_SPI.C(167): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(169): error C202: 'DATA_BIT_6': undefined identifier
+HARDWARE\STC15_SPI.C(172): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(174): error C202: 'DATA_BIT_5': undefined identifier
+HARDWARE\STC15_SPI.C(177): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(179): error C202: 'DATA_BIT_4': undefined identifier
+HARDWARE\STC15_SPI.C(182): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(184): error C202: 'DATA_BIT_3': undefined identifier
+HARDWARE\STC15_SPI.C(187): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(189): error C202: 'DATA_BIT_2': undefined identifier
+HARDWARE\STC15_SPI.C(192): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(194): error C202: 'DATA_BIT_1': undefined identifier
+HARDWARE\STC15_SPI.C(197): error C202: 'DATA_BIT_0': undefined identifier
+HARDWARE\STC15_SPI.C(199): error C202: 'DATA_BIT_0': undefined identifier
+compiling SYS.c...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling UART.C...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling I2C.C...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+compiling OLED.c...
+HARDWARE\SYS.H(120): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(121): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(122): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(123): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(124): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(125): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(126): error C142: 'DATA_BIT_ALL': invalid base address
+HARDWARE\SYS.H(127): error C142: 'DATA_BIT_ALL': invalid base address
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+linking...
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  L01_TX_Addr
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  nRF24L01.obj (NRF24L01)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  L01_RX_Addr
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  nRF24L01.obj (NRF24L01)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+Program Size: data=65.5 xdata=12 const=0 code=1976
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+linking...
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  DEBUG.obj (DEBUG)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  DELAY.obj (DELAY)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  EXINT.obj (EXINT)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  GPIO.obj (GPIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  MY_STUDIO.obj (MY_STUDIO)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  nRF24L01.obj (NRF24L01)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  L01_TX_Addr
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  nRF24L01.obj (NRF24L01)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  L01_RX_Addr
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  nRF24L01.obj (NRF24L01)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  STC15_SPI.obj (STC15_SPI)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  SYS.obj (SYS)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  UART.obj (UART)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  I2C.obj (I2C)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_7
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_6
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_5
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_4
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_3
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_2
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_1
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_0
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  DATA_BIT_ALL
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+Program Size: data=65.5 xdata=12 const=0 code=1976
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+HARDWARE\STC15_SPI.C(98): error C247: non-address/-constant initializer
+HARDWARE\STC15_SPI.C(99): error C247: non-address/-constant initializer
+HARDWARE\STC15_SPI.C(100): error C247: non-address/-constant initializer
+HARDWARE\STC15_SPI.C(101): error C247: non-address/-constant initializer
+HARDWARE\STC15_SPI.C(102): error C247: non-address/-constant initializer
+HARDWARE\STC15_SPI.C(103): error C247: non-address/-constant initializer
+HARDWARE\STC15_SPI.C(104): error C247: non-address/-constant initializer
+HARDWARE\STC15_SPI.C(105): error C247: non-address/-constant initializer
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+linking...
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  L01_TX_Addr
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  nRF24L01.obj (NRF24L01)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  L01_RX_Addr
+    MODULE:  nRF24L01_UI.obj (NRF24L01_UI)
+   DEFINED:  nRF24L01.obj (NRF24L01)
+Program Size: data=53.5 xdata=12 const=0 code=1976
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+linking...
+Program Size: data=53.5 xdata=12 const=0 code=1976
+creating hex file from "Develop"...
+"Develop" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+linking...
+Program Size: data=87.5 xdata=12 const=10 code=2814
+creating hex file from "Develop"...
+"Develop" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+linking...
+Program Size: data=53.5 xdata=46 const=10 code=2814
+creating hex file from "Develop"...
+"Develop" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.c...
+USER\MAIN.C(16): error C141: syntax error near 'void'
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+linking...
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  CHS_F16X16
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  EN_F16X32
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  EN_F12X24
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  EN_F8X16
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  EN_F6X8
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+*** ERROR L104: MULTIPLE PUBLIC DEFINITIONS
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+   DEFINED:  MAIN.obj (MAIN)
+Program Size: data=53.5 xdata=46 const=11928 code=15895
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+\科技\电子科技\电子制作\测试\000\STC15-DEVELOP-TEMPLATE FOR NRF24L01\DEVELOP\HARDWARE\FONT_EN.H(20): error C129: missing ';' before 'unsigned'
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+HARDWARE\FONT_EN.H(20): error C129: missing ';' before 'unsigned'
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+linking...
+*** ERROR L127: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  EN_F6X8
+    MODULE:  OLED.obj (OLED)
+*** ERROR L127: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  EN_F8X16
+    MODULE:  OLED.obj (OLED)
+*** ERROR L127: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  EN_F12X24
+    MODULE:  OLED.obj (OLED)
+*** ERROR L127: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  EN_F16X32
+    MODULE:  OLED.obj (OLED)
+*** ERROR L127: UNRESOLVED EXTERNAL SYMBOL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_F6X8
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 1000241H
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_F6X8
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 1000244H
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_F8X16
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100024EH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_F8X16
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 1000251H
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_F12X24
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100025BH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_F12X24
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100025EH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_F16X32
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 1000268H
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_F16X32
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100026BH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100028AH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100028FH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 10002ABH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 10002B0H
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 10002C8H
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 10002CDH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 10002FCH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 1000301H
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100031AH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100031FH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 1000337H
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100033CH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 1000839H
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100083EH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 100085BH
+*** ERROR L128: REFERENCE MADE TO UNRESOLVED EXTERNAL
+    SYMBOL:  EN_Font_Index
+    MODULE:  OLED.obj (OLED)
+    ADDRESS: 1000860H
+Program Size: data=53.5 xdata=46 const=10 code=3977
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+compiling Font_CHS.c...
+compiling Font_EN.c...
+compiling Font_PIC.c...
+linking...
+Program Size: data=53.5 xdata=46 const=11608 code=3977
+creating hex file from "Develop"...
+"Develop" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling MAIN.c...
+USER\MAIN.C(41): error C214: illegal pointer conversion
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+compiling Font_CHS.c...
+compiling Font_EN.c...
+compiling Font_PIC.c...
+Target not created
+Build target 'Target 1'
+compiling MAIN.c...
+compiling DEBUG.c...
+compiling DELAY.c...
+compiling EXINT.C...
+compiling GPIO.C...
+compiling MY_STUDIO.C...
+compiling nRF24L01.c...
+compiling nRF24L01_UI.c...
+compiling STC15_SPI.c...
+compiling SYS.c...
+compiling UART.C...
+compiling I2C.C...
+compiling OLED.c...
+compiling Font_CHS.c...
+compiling Font_EN.c...
+compiling Font_PIC.c...
+linking...
+Program Size: data=55.5 xdata=46 const=11608 code=4428
+creating hex file from "Develop"...
+"Develop" - 0 Error(s), 0 Warning(s).
